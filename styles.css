@@ -1,0 +1,64 @@
+body {
+  background: #f00df4 ;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-size: 65px;
+  color: white;
+  margin-top: 0;
+  text-align: center;
+}
+
+img {
+  width: 90vh;
+  opacity: 0.9;
+  
+  margin-right: auto;
+  margin-left: auto;
+}
+
+input {
+  width: 495px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  padding-left: 15px;
+  border-radius: 6px;
+  display: block;
+  outline: none;
+}
+
+h1{
+  color: white;
+  font-size: 15px;
+  margin-top: 15px
+}
+
+button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background: orange;
+  width: 230px;
+  height: 30px;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button:active {
+  opacity: 0.8;
+}
+
+a {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  font-size: 17px;
+  color: white;
+  cursor: pointer;
+}
